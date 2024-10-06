@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Justice Matters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .issue {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #ecf0f1;
+            border-left: 5px solid #e74c3c;
+        }
+        .fix {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #dff9d8;
+            border-left: 5px solid #27ae60;
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 15px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Make a Difference: Justice for All</h1>
+    <p>Our justice system has loopholes that affect the lives of many. Together, we can bring change!</p>
+
+    <div class="issue">
+        <strong>1. Long Delays in Cases:</strong>
+        <p>Many cases take years to resolve, causing frustration and suffering.</p>
+        <div class="fix">
+            <strong>Solution:</strong> We need more judges and efficient systems to speed up the process.
+        </div>
+    </div>
+
+    <div class="issue">
+        <strong>2. Corruption:</strong>
+        <p>Corruption can affect fair judgments and access to justice.</p>
+        <div class="fix">
+            <strong>Solution:</strong> Promote transparency and hold corrupt officials accountable.
+        </div>
+    </div>
+
+    <div class="issue">
+        <strong>3. Lack of Legal Aid:</strong>
+        <p>Many people cannot afford legal help, leaving them vulnerable.</p>
+        <div class="fix">
+            <strong>Solution:</strong> Strengthen legal aid services to ensure everyone has access to justice.
+        </div>
+    </div>
+
+    <div class="issue">
+        <strong>4. Overlapping Laws:</strong>
+        <p>Confusing laws can lead to misuse and injustice.</p>
+        <div class="fix">
+            <strong>Solution:</strong> Regularly review and clarify laws for better understanding.
+        </div>
+    </div>
+
+    <div class="issue">
+        <strong>5. Victim Rights:</strong>
+        <p>Victims often lack support in the legal process.</p>
+        <div class="fix">
+            <strong>Solution:</strong> Establish services to support and inform victims during cases.
+        </div>
+    </div>
+
+    <button onclick="alert('Thank you for your interest! Join us in advocating for justice reform!')">Join the Movement!</button>
+</div>
+
+</body>
+</html>
